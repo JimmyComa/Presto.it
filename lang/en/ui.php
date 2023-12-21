@@ -1,0 +1,53 @@
+<?php
+
+return [
+    'navbarCategory'=>'Categories',
+    'navbarAllAnnouncements'=>'All our Announcements',
+    'navbarSearch'=>'Search here!',
+    'navbarLogin'=>'Login',
+    'navbarSignin'=>'Sigin',
+    'navbarRevisor'=>'Revisor area',
+    'navbarRevisorMessage'=>'unread messages',
+    'navbarLogout'=>'Logout',
+    'Arredamento'=>'Furnitures',
+    'Abbigliamento'=>'Clothing',
+    'Elettronica'=>'Electronics',
+    'Musica'=>'Music',
+    'Giardinaggio'=>'Gardening',
+    'Giochi'=>'Games',
+    'Sport'=>'Sport',
+    'Libri'=>'Books',
+    'Cucina'=>'Kitchen',
+    'Bellezza'=>'Beauty',
+    'Altro'=>'Other',
+    'CreatedBy'=> 'Created by',
+    'WorkWithUs'=>'Work with us',
+    'btnAdd'=>'Create new announcement',
+    'btnLog'=>'Log in to create a new announcement',
+    'seeAll'=>'See all',
+    'latestAnnouncements'=> 'Latest announcements',
+    'signIn'=>'sign in',
+    'logIn'=>'login',
+    'revisorLink'=>'Revisor area',
+    'CreateAnAccount' => 'CREATE AN ACCOUNT',
+    'RegisterInstead' => 'Do not have an account?',
+    'LogInstead' => 'Are you already registered?',
+    'ConfirmPwd' => 'Confirm Password',
+
+    'AllAnnouncements' => 'All announcements',
+    'ThereAreNoAnnouncements' => 'ThereAreNoAnnouncements',
+
+    '1' => 'couch',
+    '2' => 'shirt',
+    '3' => 'lightbulb',
+    '4' => 'music',
+    '5' => 'seedling',
+    '6' => 'gamepad',
+    '7' => 'dumbbell',
+    '8' => 'book-open',
+    '9' => 'kitchen-set',
+    '10' => 'staff-snake',
+    '11' => 'list'
+
+
+];

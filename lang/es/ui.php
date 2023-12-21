@@ -1,0 +1,53 @@
+<?php
+
+return [
+    'navbarCategory'=>'Categorías',
+    'navbarAllAnnouncements'=>'Todos los anuncios',
+    'navbarSearch'=>'Buscar aquí',
+    'navbarLogin'=>'Inicio de Sesión',
+    'navbarSignin'=>'Inscripción',
+    'navbarRevisor'=>'Área de Auditoría',
+    'navbarRevisorMessage'=>'Mensajes no leídos',
+    'navbarLogout'=>'Cierre de sesión',
+    'Arredamento'=>'Muebles',
+    'Abbigliamento'=>'Ropa',
+    'Elettronica'=>'Electrónica',
+    'Musica'=>'Música',
+    'Giardinaggio'=>'Jardinería',
+    'Giochi'=>'Juegos',
+    'Sport'=>'Deporte',
+    'Libri'=>'Libros',
+    'Cucina'=>'Cocina',
+    'Bellezza'=>'Belleza',
+    'Altro'=>'Otros',
+
+    'CreatedBy'=> 'Creado por',
+    'WorkWithUs'=> 'Trabaja con nosotros',
+    'btnAdd'=>'Crear un nuevo anuncio',
+    'btnLog'=>'Iniciar sesión para crear un nuevo anuncio',
+    'seeAll'=>'Más información',
+    'latestAnnouncements'=> 'Últimos anuncios',
+    'signIn'=>'Regístrese en',
+    'logIn'=>'Iniciar sesión',
+    'revisorLink'=>'Área de auditoría',
+
+    'CreateAnAccount' => 'CREAR UNA CUENTA',
+    'RegisterInstead' => '¿No tiene cuenta?',
+    'LogInstead' => '¿Ya se ha registrado?',
+    'ConfirmPwd' => 'Confirmación de contraseña',
+
+    'AllAnnouncements' => 'Todos los anuncios',
+    'ThereAreNoAnnouncements' => 'No hay anuncios',
+
+    '1' => 'couch',
+    '2' => 'shirt',
+    '3' => 'lightbulb',
+    '4' => 'music',
+    '5' => 'seedling',
+    '6' => 'gamepad',
+    '7' => 'dumbbell',
+    '8' => 'book-open',
+    '9' => 'kitchen-set',
+    '10' => 'staff-snake',
+    '11' => 'list'
+];
